@@ -1,0 +1,15 @@
+#sort_button{
+    display:none;
+    padding:15px;
+    font-size:large;
+    background-color:lightskyblue;
+}
+#submit_button{
+    display:inline-block;
+    padding:15px;
+    font-size:large;
+    background-color:lightskyblue;
+}
+body{
+    background-color:lightcoral;
+}
